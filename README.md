@@ -1,1 +1,5 @@
-# * * Maxik
+# Maxik 
+
+- SCSS
+- HTML
+- JS
